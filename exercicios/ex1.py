@@ -6,5 +6,5 @@ print(type(pais))
 
 quantidade = 4
 
-print(pais, "ganhou", quantidade, "titulos mundiais") 
+print(f"{pais} ganhou {quantidade} titulos mundiais") 
 
