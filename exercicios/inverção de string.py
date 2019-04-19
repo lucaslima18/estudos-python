@@ -1,4 +1,3 @@
-s = input(str("Digite um texto:"))
+s = input("escreva algo:")
 
-for i in s:
-    print(s[i])
+print(s[::-1])
